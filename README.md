@@ -93,6 +93,8 @@ The dashboard provides:
 ---
 
 ## Project Structure
+'''text
+customer-segmentation-rfm-sql-powerbi/
 
 ├── data/
 │ └── cleaned/
@@ -109,3 +111,4 @@ The dashboard provides:
 ├── insights/
 │ └── business_insights.md
 └── README.md
+'''
