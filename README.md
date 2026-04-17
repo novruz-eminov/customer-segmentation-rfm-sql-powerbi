@@ -93,22 +93,23 @@ The dashboard provides:
 ---
 
 ## Project Structure
-'''text
+
+```text
 customer-segmentation-rfm-sql-powerbi/
 
 ├── data/
-│ └── cleaned/
+│   └── cleaned/
 ├── sql/
-│ ├── 01_rfm_base.sql
-│ ├── 02_rfm_scoring.sql
-│ ├── 03_customer_segmentation.sql
-│ └── 04_segment_analysis.sql
+│   ├── 01_rfm_base.sql
+│   ├── 02_rfm_scoring.sql
+│   ├── 03_customer_segmentation.sql
+│   └── 04_segment_analysis.sql
 ├── powerbi/
-│ └── customer_segmentation_dashboard.pbix
+│   └── customer_segmentation_dashboard.pbix
 ├── images/
-│ ├── rfm_dashboard_page1.png
-│ └── segmentation_summary.png
+│   ├── rfm_dashboard_page1.png
+│   └── segmentation_summary.png
 ├── insights/
-│ └── business_insights.md
+│   └── business_insights.md
 └── README.md
-'''
+```
