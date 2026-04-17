@@ -63,7 +63,7 @@ The dashboard provides:
 
 ## Dashboard Preview
 
-![Dashboard](images/rfm_dashboard_page1.png)
+![Dashboard](images/rfm_dashboard.png)
 
 ---
 
